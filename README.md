@@ -22,7 +22,7 @@ ye this is avg topic on chromium based application
 
 
 # Features
-- Win8 support. (maybe win7)
+- Down to Win8 support (maybe win7), Up to Win16.
 - Local avatar favorite vrc+ check removed.
 
 not sure if win7 works but... it should, let me know if it works, pull request on readme.
