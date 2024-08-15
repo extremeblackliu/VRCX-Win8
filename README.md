@@ -27,6 +27,9 @@ ye this is avg topic on chromium based application
 
 not sure if win7 works but... it should, let me know if it works, pull request on readme.
 
+# Start from source
+come on men just few mouse clicks
+
 # Screenshots
 
 ![login](https://raw.githubusercontent.com/extremeblackliu/VRCX-Win8/main/images/1.png)
