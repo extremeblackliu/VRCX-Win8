@@ -11,7 +11,7 @@ just go download in Release and try it
 
 this is build on .NET 6.0, im fine installing .NET 6 on my Windows Server 2012 R2, but ye you might downgrade more to support REALLY olderrrr windows.
 
-im not planning to keep updating it, except perhaps when something important.
+im not planning to updating it, except perhaps when something important.
 
 # Why Win8?
 ye this is avg topic on chromium based application
